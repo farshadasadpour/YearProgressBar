@@ -5,7 +5,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python
 ```bass
 pip install python
 ```
-##libraries
+## Libraries
 ```python
 import datetime
 ````
