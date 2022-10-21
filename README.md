@@ -1,6 +1,6 @@
 # Year Progress Bar with python 
-This projet is a fun project to calculate 2020 year progress bar.<br />
-86.26% ████████████████████░░░ 13.74%
+This projet is a fun project to calculate 2022 year progress bar.<br />
+80.72% ███████████████████░░░░ 19.28%
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python
 ```bass
